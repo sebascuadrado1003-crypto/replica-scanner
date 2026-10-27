@@ -1,4 +1,6 @@
 yfinance
-matplotlib
+plotly
 streamlit
 numpy
+streamlit-autorefresh
+pytz
